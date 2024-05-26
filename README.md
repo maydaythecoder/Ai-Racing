@@ -3,6 +3,7 @@
 This project is an AI Racing Simulator built using Python, Pygame, and NEAT (NeuroEvolution of Augmenting Topologies). The simulator trains cars to navigate through a racing map using neural networks and evolutionary algorithms.
 
 ## Table of Contents
+- [Requirements](#Requirements)
 - [Installation](#Installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
@@ -10,6 +11,11 @@ This project is an AI Racing Simulator built using Python, Pygame, and NEAT (Neu
 - [Contributing](#contributing)
 - [License](#license)
 
+## Requirements
+
+- Python 3.x
+- neat-python
+- pygame
 ## Installation
 
 1. **Clone the repository:**
